@@ -1,7 +1,11 @@
 # 회의실 예약 시스템
 
+
 ## 기본 시나리오 및 UI 구성
+
 **로그인 -> 날짜 선택 -> 방 선택 -> 시간 선택 -> 예약/예약취소**
+
+기본 UI 구성도
 
 ![기본 UI 구성도](https://netrol.com/img/bookingroomui.png)
 
@@ -13,12 +17,17 @@
 
 
 ## 추가할지도 모르는 기능
+
 * 방 추가 메뉴
 * 회원 삭제 메뉴
 
 
 ## 사용할 기술 스텍
+
 Frontend - [React JS](https://reactjs.org/)
+
 Backend - [Express JS](https://expressjs.com/)
+
 UI Library - [MATERIAL-UI](https://material-ui.com/)
+
 DB - [SQLite](https://www.sqlite.org)
